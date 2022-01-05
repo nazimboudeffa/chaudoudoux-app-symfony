@@ -1,1 +1,3 @@
-# chaudoudoux-app-symfony
+# Chaudoudoux App Symfony
+
+Another exploration
